@@ -1,3 +1,19 @@
-.author{
+.Edwin{
   color: red;
+}
+.Munene{
+  color: blue;
+}
+.Ireri{
+  float: left;
+  background-color: grey;
+}
+.master{
+  background-color: yellow;
+}
+.test-box{
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
 }
