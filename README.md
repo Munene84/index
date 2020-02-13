@@ -9,6 +9,6 @@ Your name An image of you or something that represents who you are A list of pro
 
 Some of the most common HTML tags are incorporated, including: p, h, ul, ol, li, em, strong, a, img, div, span Page incorporates a custom-made stylesheet that uses cascading, the box model, and floats Indentation and spacing of HTML and CSS is accurate. Commits are made regularly with clear messages associated with them Project is deployed to GitHub Pages A project README that includes: project or program name author name description of project project setup instructions link to live site on GitHub Pages copyright and license information
 
-link to live site on GitHub Pages:https://munene84.github.io/index4/
+link to live site on GitHub Pages:https://munene84.github.io/index/
 
 copyright and license information
